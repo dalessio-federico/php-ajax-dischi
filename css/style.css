@@ -25,14 +25,6 @@ header {
     background-color: #2e3a46;
 }
 
-.genere_selection {
-    margin-right: 10px;
-}
-.genere_selection label {
-    color : #7c7e80;
-    margin-right: 5px;
-}
-
 header img {
     height: 45px;
     width: 45px;
